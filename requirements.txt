@@ -1,0 +1,7 @@
+streamlit
+scikit-learn
+matplotlib
+wordcloud
+azure-core
+azure-ai-formrecognizer
+azure-storage-blob
